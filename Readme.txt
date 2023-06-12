@@ -3,6 +3,7 @@ Para ejecutar el proyecto
 -Bajar codigo fuente y ejecularlo en intelliji.
 -ejecutar el proyecto.
 -url para probar servicio : http://localhost:8080/calcAmount
+
 /*Deescripcion*/
 El proyecto esta desarrllado en java 11 y spring boot.
 Su arquitectura esta de la siguiente forma:
